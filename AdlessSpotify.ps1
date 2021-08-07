@@ -1,4 +1,5 @@
-﻿### This script removes all ads played through the Windows Spotify client
+### WARNING: I highly recommend buying Spotify Premium in order to help support Spotify, but in case you're unable to do so, this script exists to help make life a bit easier.
+### This script removes all ads played through the Windows Spotify client
 ### Written by Ted Hong, inspired by Light
 ### Special thanks to the SpotifyHosts subreddit and the BlockTheSpot project for figuring out custom program files
 ### This script is licensed under the MIT License [https://mit-license.org/]

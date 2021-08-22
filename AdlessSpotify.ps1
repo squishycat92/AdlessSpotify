@@ -10,7 +10,7 @@ taskkill.exe /f /t /im spotify.exe
 
 # Fetch updated program files and unzip to a temporary folder
 Set-Location ~
-Invoke-WebRequest -OutFile temp999.zip -Uri https://github.com/mrpond/BlockTheSpot/releases/download/2021.4.20.35/chrome_elf.zip
+Invoke-WebRequest -OutFile temp999.zip -Uri https://github.com/mrpond/BlockTheSpot/releases/download/2021.8.17.39/chrome_elf.zip
 Expand-Archive -LiteralPath ~\temp999.zip -DestinationPath ~\temp999
 
 # Wait 5 seconds and delete the zipped folder
